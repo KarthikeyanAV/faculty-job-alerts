@@ -26,6 +26,6 @@
 * Enter recipient mail id.
 
 ### Output Snippings
-![Mail Structure]("images/Mail_snipping.PNG" "Alert Mail Format")
+![Mail Structure](images/Mail_snipping.PNG "Alert Mail Format")
 
 Note:- The project is intended for educational purposes not for commercial use.
